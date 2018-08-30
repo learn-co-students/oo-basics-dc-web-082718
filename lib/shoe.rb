@@ -22,7 +22,6 @@ end
 
 def size= (size)
   @size = size
-  @condition = "new"
 end
 
 def material
